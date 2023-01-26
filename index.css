@@ -78,7 +78,8 @@ nav{
 }
 a{
     text-decoration: none;
-    padding: 20px;
+    padding: 0px;
+    margin: 20px;
     font-size: 20px;
     font-family: 'Roboto Mono', monospace;
     font-weight: bold;
@@ -125,6 +126,7 @@ h3{
 }
 .btn{
     background-color: #26a98b;
+    margin: 0px;
     padding:13px 30px 13px 30px ;
     color: #1e836c ;
     border-radius: 3px;
